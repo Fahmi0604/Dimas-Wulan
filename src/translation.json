@@ -1,0 +1,43 @@
+{
+  "tema": "brown",
+  "path": "Wulan-Dimas",
+  "title-type": "cpw-cpp",
+  "users": {
+    "cpp-l": "Dimas Barata Jiwa",
+    "cpp-s": "Dimas",
+    "cpw-l": "Nuswantari Wahyu Wulandari",
+    "cpw-s": "Wulan",
+    "ayah-cpp": "Sigit Tri Sulutuardi",
+    "ibu-cpp": "Sukarti",
+    "ayah-cpw": "Mujiono",
+    "ibu-cpw": "Insah Juningsih"
+  },
+  "ayat": {
+    "isi": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir",
+    "kutipan": "QS. Ar-Rum: 21"
+  },
+  "datano": {
+    "rsvp": "628999848090",
+    "gift": "628999848090",
+    "norek": "1410018435321",
+    "detail": "// TODO need add translation for detail no rek"
+  },
+  "savethedate": {
+    "title": "Wedding Invitation, Wulan And Dimas",
+    "description": "Be there!",
+    "start": "2024-09-09 18:00:00",
+    "end": "2024-09-09 22:00:00",
+    "duration": [4, "hour"],
+    "location": "Desa Gelang Dsn. Krploso RT 05 RW 04, Tulangan, Sidoarjo"
+  },
+  "live": {
+    "username": "putriintans",
+    "date": "Minggu, 14 Mei 2023",
+    "time": "07:00 Wib",
+    "link": "https://www.instagram.com/putriintans/?upcoming_event_id=17941230737636748"
+  },
+  "welcome": {
+    "title": "Welcome to {{framework}}"
+  },
+  "Home": {}
+}

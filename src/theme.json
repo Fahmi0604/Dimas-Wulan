@@ -1,0 +1,39 @@
+{
+  "sage": {
+    "colors": {
+      "primary": "#EDF1D6",
+      "secondary": "#609966",
+      "customText": "#40513B"
+    },
+    "backgroundColor": {
+      "customSecondary": "rgba(96, 153, 102, 1)",
+      "customSecondaryMd": "rgba(96, 153, 102, 0.75)"
+    }
+  },
+  "brown": {
+    "colors": {
+      "primary": "#FFFBE9",
+      "secondary": "#D7C0AE",
+      "customText": "#967E76"
+    },
+    "backgroundColor": {
+      "customSecondary": "#D7C0AE",
+      "customSecondaryMd": "#D7C0AE"
+    }
+  },
+  "tosca": {
+    "colors": {
+      "primary": "#A7D7C5",
+      "secondary": "#74B49B",
+      "customText": "#5D8D89"
+    },
+    "backgroundColor": {
+      "customSecondary": "#74B49B",
+      "customSecondaryMd": "#74B49B"
+    }
+  },
+  "lilac": {
+    "colors": {},
+    "backgroundColor": {}
+  }
+}
